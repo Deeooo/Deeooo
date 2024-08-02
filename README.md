@@ -1,8 +1,7 @@
-!h2 Hi there , welcome to my profile.
-- 👀 I’m interested in dancing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
+
+---
+<h1 align="center">I'm Tomi Tokko</h1>
 
 <!---
 Deeooo/Deeooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

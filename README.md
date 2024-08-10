@@ -1,15 +1,8 @@
-### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
-
----
-<h1 align="center">I'm Deeo</h1>
-
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);Deeo同学祝您今天愉快!&center=true&size=27" />
-    </a>
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2581A9&width=435&lines=print(Hello%2C+World!);Deeo%E5%90%8C%E5%AD%A6%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E6%84%89%E5%BF%AB!" alt="Typing SVG" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->

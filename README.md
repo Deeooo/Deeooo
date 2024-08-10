@@ -49,8 +49,8 @@
 
 <tr><td>
 
-### 🏢 Gamee
+### 🏢 Game
 
-<img width="400" height="140" src="https://steamcard.dreamerhe.cn/card/76561199252508154/tokyonight,en,badge,group">
+<img width="400" height="140" centent src="https://steamcard.dreamerhe.cn/card/76561199252508154/tokyonight,en,badge,group">
 
 </table>

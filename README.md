@@ -54,3 +54,71 @@
 <img width="400" height="140" centent src="https://steamcard.dreamerhe.cn/card/76561199252508154/tokyonight,en,badge,group">
 
 </table>
+
+
+  ### 📊 WakaTime
+  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Deeo&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Deeo&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Deeo&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  </picture>
+  
+  </td></tr>
+  
+  <tr><td>
+  
+  <!--START_SECTION:waka-->
+  **I'm an Early 🐤** 
+  
+  ```text
+  🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+  🌆 Daytime                547 commits         ████████░░░░░░░░░░░░░░░░░   30.59 % 
+  🌃 Evening                445 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+  🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+  ```
+  📅 **I'm Most Productive on Friday** 
+  
+  ```text
+  Monday                   162 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+  Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+  Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+  Thursday                 239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+  Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+  Saturday                 149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+  Sunday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+  ```
+  
+  
+  📊 **This Week I Spent My Time On** 
+  
+  ```text
+  🕑︎ Time Zone: Asia/Shanghai
+  
+  💬 Programming Languages: 
+  TypeScript               7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.45 % 
+  JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+  Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+  Vue.js                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+  JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+  
+  🔥 Editors: 
+  VS Code                  16 hrs 22 mins      █████████████████████████   100.00 % 
+  
+  💻 Operating System: 
+  Mac                      16 hrs 22 mins      █████████████████████████   100.00 % 
+  ```
+  
+  
+   Last Updated on 29/03/2024 01:15:34 UTC
+  <!--END_SECTION:waka-->
+  
+  </td></tr>
+
+</table>
